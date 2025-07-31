@@ -1,12 +1,32 @@
-# React + Vite
+#  💡 SkillBridge – Career Suggestions with AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent career guidance platform built using **React**, **Vite**, and **Gemini AI**.
 
-Currently, two official plugins are available:
+## Project Review
+SkillBridge is a smart and beautifully designed web application that helps users discover the best career paths based on their skills, interests, and goals using Google Gemini AI. Built with React, Vite, and Tailwind CSS, the app delivers personalized, motivational suggestions in real-time through a sleek and responsive interface. It features form-based user input, AI-generated recommendations with emojis and resources, dynamic content rendering, and smooth deployment via Vercel. SkillBridge combines intuitive UX with cutting-edge AI to make career guidance more accessible and engaging.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+🔍 Simple form to collect user info
+
+🤖 AI-generated suggestions with emojis, resources & motivation
+
+💡 Dynamically parsed and beautifully displayed
+
+📦 Fast & modern tech stack (Vite, React, Gemini API)
+
+🌐 Deployed live with Vercel
+
+## 🔧 Tech Stack
+
+- React + Vite
+- Google Gemini Pro API
+- Tailwind CSS
+- Deployed on Vercel
+
+- 
+
+##👩‍💻 Author
+
+Anagha A.B.Tech CSE @ CUSAT
