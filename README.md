@@ -32,6 +32,6 @@ SkillBridge is a smart and beautifully designed web application that helps users
 
 - 
 
-##👩‍💻 Author
+👩‍💻 Author
 
 Anagha A.B.Tech CSE @ CUSAT
